@@ -1,0 +1,21 @@
+li a {
+    color: green;
+    font-weight: thick;
+}
+
+li {
+    color: green;
+    font-weight: thick;
+}
+
+h1 {
+    color: green;
+}
+
+form {
+    color: green;
+}
+
+body {
+    background: white url("images/background.jpg") no-repeat;
+}
